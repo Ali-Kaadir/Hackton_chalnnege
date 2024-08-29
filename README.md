@@ -1,0 +1,22 @@
+Project Name: Hackathon Challenge
+This website is designed to help high school graduates choose their specialization. The system provides a set of tools to assist in determining the most suitable specialization based on the student's interests and academic results.
+
+Features:
+
+User-friendly Interface AI Assistant
+
+Prerequisites
+To run this project, ensure you have the following:
+
+Python 3
+The latest version of Django
+pip for package installation
+Installation
+Follow these steps to install and run the project locally:
+
+Install the project from here: https://github.com/MohamadAmiin/hackthon_challenge.git Or download it as a zip file.
+Create a virtual environment for the project using the following command: py -m venv environment-name
+Activate the virtual environment using the following command: environment-name\Scripts\activate.bat
+Install Django using the following command: pip install Django
+Install all requirements using the following command: pip install -r requirements.txt
+Run the server using the following command: py manage.py runserver
